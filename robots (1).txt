@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://xraneclient-client.github.io/sitemap.xml
